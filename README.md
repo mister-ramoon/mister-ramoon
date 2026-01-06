@@ -123,19 +123,6 @@ const ramon = {
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mister-ramoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mister-ramoon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-ramoon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🏆 Logros Destacados
 
 ```javascript
